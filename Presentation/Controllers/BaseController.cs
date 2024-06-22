@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace PagodaProbeApi.Controllers;
 
 [ApiController]
-[Route("api/[controller]")]
+[Route("[controller]")]
 public class BaseController : ControllerBase
 {
     private IMediator _mediator;

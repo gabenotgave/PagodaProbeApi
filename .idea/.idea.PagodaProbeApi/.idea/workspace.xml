@@ -14,7 +14,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3eda4a9-bb27-4f0b-9265-7da625548b76" name="Changes" comment="" />
+    <list default="true" id="d3eda4a9-bb27-4f0b-9265-7da625548b76" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.dockerignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PagodaProbeApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PagodaProbeApi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Presentation/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Presentation/Presentation.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Presentation/Presentation.csproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +27,9 @@
   </component>
   <component name="DpaMonitoringSettings">
     <option name="autoShow" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d02ebc58d66a491789dff89fc75038ec1dea00/04/c0896625/ValidationVisitor.cs" root0="SKIP_HIGHLIGHTING" />
@@ -44,37 +52,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Launch Settings Profile.PagodaProbeApi: http.executor&quot;: &quot;Debug&quot;,
-    &quot;Azure - Publish Web App.Publish PagodaProbeApi to Azure (1).executor&quot;: &quot;Run&quot;,
-    &quot;Azure - Publish Web App.Publish PagodaProbeApi to Azure (10).executor&quot;: &quot;Run&quot;,
-    &quot;Azure - Publish Web App.Publish PagodaProbeApi to Azure (2).executor&quot;: &quot;Run&quot;,
-    &quot;Azure - Publish Web App.Publish PagodaProbeApi to Azure (3).executor&quot;: &quot;Run&quot;,
-    &quot;Azure - Publish Web App.Publish PagodaProbeApi to Azure (4).executor&quot;: &quot;Run&quot;,
-    &quot;Azure - Publish Web App.Publish PagodaProbeApi to Azure (5).executor&quot;: &quot;Run&quot;,
-    &quot;Azure - Publish Web App.Publish PagodaProbeApi to Azure (6).executor&quot;: &quot;Run&quot;,
-    &quot;Azure - Publish Web App.Publish PagodaProbeApi to Azure (7).executor&quot;: &quot;Run&quot;,
-    &quot;Azure - Publish Web App.Publish PagodaProbeApi to Azure (8).executor&quot;: &quot;Run&quot;,
-    &quot;Azure - Publish Web App.Publish PagodaProbeApi to Azure (9).executor&quot;: &quot;Run&quot;,
-    &quot;Azure - Publish Web App.Publish PagodaProbeApi to Azure.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Launch Settings Profile.PagodaProbeApi: http.executor": "Debug",
+    "Azure - Publish Web App.Publish PagodaProbeApi to Azure (1).executor": "Run",
+    "Azure - Publish Web App.Publish PagodaProbeApi to Azure (10).executor": "Run",
+    "Azure - Publish Web App.Publish PagodaProbeApi to Azure (2).executor": "Run",
+    "Azure - Publish Web App.Publish PagodaProbeApi to Azure (3).executor": "Run",
+    "Azure - Publish Web App.Publish PagodaProbeApi to Azure (4).executor": "Run",
+    "Azure - Publish Web App.Publish PagodaProbeApi to Azure (5).executor": "Run",
+    "Azure - Publish Web App.Publish PagodaProbeApi to Azure (6).executor": "Run",
+    "Azure - Publish Web App.Publish PagodaProbeApi to Azure (7).executor": "Run",
+    "Azure - Publish Web App.Publish PagodaProbeApi to Azure (8).executor": "Run",
+    "Azure - Publish Web App.Publish PagodaProbeApi to Azure (9).executor": "Run",
+    "Azure - Publish Web App.Publish PagodaProbeApi to Azure.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;/Users/gabearnold/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache&quot;,
-      &quot;/Users/gabearnold/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache&quot;,
-      &quot;/Users/gabearnold/Library/Application Support/Symbols/src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/Users/gabearnold/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache",
+      "/Users/gabearnold/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache",
+      "/Users/gabearnold/Library/Application Support/Symbols/src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.PagodaProbeApi: http">
     <configuration name="Publish PagodaProbeApi to Azure (10)" type="AzureDotNetWebAppPublish" factoryName="Azure Web App">
       <option name="AZURE_WEB_APP_PROJECT" value="$PROJECT_DIR$/Presentation/Presentation.csproj" />
@@ -648,6 +657,7 @@
       <workItem from="1717971224730" duration="2088000" />
       <workItem from="1718398138464" duration="1514000" />
       <workItem from="1718707896942" duration="587000" />
+      <workItem from="1719087542274" duration="545000" />
     </task>
     <servers />
   </component>

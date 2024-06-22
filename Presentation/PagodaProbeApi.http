@@ -1,0 +1,6 @@
+@PagodaProbeApi_HostAddress = http://localhost:5130
+
+GET {{PagodaProbeApi_HostAddress}}/api/getparcelsbypersonname/
+Accept: application/json
+
+###

@@ -1,0 +1,7 @@
+/Users/gabearnold/RiderProjects/PagodaProbeApi/PagodaProbeApi/obj/Debug/net8.0/PagodaProbeApi.csproj.AssemblyReference.cache
+/Users/gabearnold/RiderProjects/PagodaProbeApi/PagodaProbeApi/obj/Debug/net8.0/PagodaProbeApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabearnold/RiderProjects/PagodaProbeApi/PagodaProbeApi/obj/Debug/net8.0/PagodaProbeApi.AssemblyInfoInputs.cache
+/Users/gabearnold/RiderProjects/PagodaProbeApi/PagodaProbeApi/obj/Debug/net8.0/PagodaProbeApi.AssemblyInfo.cs
+/Users/gabearnold/RiderProjects/PagodaProbeApi/PagodaProbeApi/obj/Debug/net8.0/PagodaProbeApi.csproj.CoreCompileInputs.cache
+/Users/gabearnold/RiderProjects/PagodaProbeApi/PagodaProbeApi/obj/Debug/net8.0/PagodaProbeApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/gabearnold/RiderProjects/PagodaProbeApi/PagodaProbeApi/obj/Debug/net8.0/PagodaProbeApi.MvcApplicationPartsAssemblyInfo.cache

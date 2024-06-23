@@ -15,10 +15,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3eda4a9-bb27-4f0b-9265-7da625548b76" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.dockerignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PagodaProbeApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PagodaProbeApi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Presentation/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Presentation/Presentation.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Presentation/Presentation.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -657,7 +654,7 @@
       <workItem from="1717971224730" duration="2088000" />
       <workItem from="1718398138464" duration="1514000" />
       <workItem from="1718707896942" duration="587000" />
-      <workItem from="1719087542274" duration="545000" />
+      <workItem from="1719087542274" duration="1377000" />
     </task>
     <servers />
   </component>

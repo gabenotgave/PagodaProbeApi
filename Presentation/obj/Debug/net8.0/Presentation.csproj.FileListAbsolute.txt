@@ -160,3 +160,4 @@
 /Users/gabearnold/RiderProjects/PagodaProbeApi/Presentation/obj/Debug/net8.0/Presentation.genruntimeconfig.cache
 /Users/gabearnold/RiderProjects/PagodaProbeApi/Presentation/obj/Debug/net8.0/ref/Presentation.dll
 /Users/gabearnold/RiderProjects/PagodaProbeApi/Presentation/bin/Debug/net8.0/Web.config
+/Users/gabearnold/RiderProjects/PagodaProbeApi/Presentation/obj/Debug/net8.0/Presentation.sourcelink.json

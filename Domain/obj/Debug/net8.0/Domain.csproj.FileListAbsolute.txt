@@ -21,3 +21,4 @@
 /Users/gabearnold/RiderProjects/PagodaProbeApi/Domain/obj/Debug/net8.0/Domain.pdb
 /Users/gabearnold/RiderProjects/PagodaProbeApi/Domain/obj/Debug/net8.0/Domain.genruntimeconfig.cache
 /Users/gabearnold/RiderProjects/PagodaProbeApi/Domain/obj/Debug/net8.0/ref/Domain.dll
+/Users/gabearnold/RiderProjects/PagodaProbeApi/Domain/obj/Debug/net8.0/Domain.sourcelink.json

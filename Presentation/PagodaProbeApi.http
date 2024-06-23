@@ -1,6 +1,21 @@
 @PagodaProbeApi_HostAddress = http://localhost:5130
 
-GET {{PagodaProbeApi_HostAddress}}/api/getparcelsbypersonname/
+POST {{PagodaProbeApi_HostAddress}}/Contact/submitcontactinquiry
+Accept: application/json
+
+###
+
+GET {{PagodaProbeApi_HostAddress}}/DocketCase/getcasebydocketnumber
+Accept: application/json
+
+###
+
+GET {{PagodaProbeApi_HostAddress}}/Person/getpersonbyname
+Accept: application/json
+
+###
+
+GET {{PagodaProbeApi_HostAddress}}/Recaptcha/getrecaptchasitekey
 Accept: application/json
 
 ###

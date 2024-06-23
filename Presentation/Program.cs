@@ -2,9 +2,20 @@ using System.Text.Json.Serialization;
 using Application;
 using Infrastructure;
 
+var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(name: MyAllowSpecificOrigins,
+        policy  =>
+        {
+          policy.WithOrigins("https://pagodaprobe.com", "https://staging.pagodaprobe.com");
+        });
+});
 
 builder.Services.AddControllers()
     .AddJsonOptions(options =>
@@ -24,6 +35,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors(MyAllowSpecificOrigins);
 
 app.UseHttpsRedirection();
 

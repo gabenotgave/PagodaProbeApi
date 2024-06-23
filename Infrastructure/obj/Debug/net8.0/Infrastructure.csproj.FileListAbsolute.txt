@@ -147,3 +147,4 @@
 /Users/gabearnold/RiderProjects/PagodaProbeApi/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
 /Users/gabearnold/RiderProjects/PagodaProbeApi/Infrastructure/obj/Debug/net8.0/Infrastructure.genruntimeconfig.cache
 /Users/gabearnold/RiderProjects/PagodaProbeApi/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll
+/Users/gabearnold/RiderProjects/PagodaProbeApi/Infrastructure/obj/Debug/net8.0/Infrastructure.sourcelink.json

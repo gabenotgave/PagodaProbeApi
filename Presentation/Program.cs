@@ -6,6 +6,15 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(name: MyAllowSpecificOrigins,
+        policy  =>
+        {
+          policy.WithOrigins("https://pagodaprobe.com");
+        });
+});
+
 builder.Services.AddControllers()
     .AddJsonOptions(options =>
     {

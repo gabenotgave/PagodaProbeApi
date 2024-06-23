@@ -13,7 +13,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy(name: MyAllowSpecificOrigins,
         policy  =>
         {
-          policy.WithOrigins("https://pagodaprobe.com");
+          policy.WithOrigins("https://pagodaprobe.com", "https://staging.pagodaprobe.com");
         });
 });
 

@@ -1,7 +1,5 @@
 # PagodaProbe API
 
-[![.NET](https://github.com/gabenotgave/PagodaProbeApi/actions/workflows/dotnet.yml/badge.svg)](https://github.com/gabenotgave/PagodaProbeApi/actions/workflows/dotnet.yml)
-
 This repository contains the source code for the PagodaProbe API, the backend service that powers the [PagodaProbeWeb](https://github.com/gabenotgave/PagodaProbeWeb) application. The API is responsible for fetching, processing, and serving public record data related to people, property parcels, and court dockets.
 
 It is built with .NET 8 using Clean Architecture principles to ensure a decoupled, maintainable, and testable codebase.
